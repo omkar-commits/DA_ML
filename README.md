@@ -1,4 +1,4 @@
-# DA_ML
+# Data Analysis and Machine Learning
 Data Set used for analysis: Enron data Set
 #Data analysis and machine Learning Assignment.
 #Data set available on Kaggle: https://www.kaggle.com/wcukierski/enron-email-dataset
