@@ -1,6 +1,7 @@
 # DA_ML
 Data Set used for analysis: Enron data Set
 #Data analysis and machine Learning Assignment.
+#Data set available on Kaggle: https://www.kaggle.com/wcukierski/enron-email-dataset
 
 Assignment problem statement: 
 To create a supervised classification pipeline to classify emails as spam or non-spam from the training data.
